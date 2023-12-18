@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 
-const { color } = require('framer-motion')
+const { colors } = require('framer-motion')
 const {fontFamily} = require ('tailwindcss/defaultTheme')
 module.exports = {
   content: [
